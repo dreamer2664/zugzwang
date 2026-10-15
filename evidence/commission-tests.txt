@@ -1,0 +1,11 @@
+test_artifact_owner_fence_and_secret_in_zip (test_ops.CommissionSafety.test_artifact_owner_fence_and_secret_in_zip) ... ok
+test_child_auth_isolation_and_actual_result (test_ops.CommissionSafety.test_child_auth_isolation_and_actual_result) ... ok
+test_failure_recovery_handoff_redacts_credential (test_ops.CommissionSafety.test_failure_recovery_handoff_redacts_credential) ... ok
+test_missing_process_and_nonzero_are_not_success (test_ops.CommissionSafety.test_missing_process_and_nonzero_are_not_success) ... ok
+test_own_identity_fence (test_ops.CommissionSafety.test_own_identity_fence) ... ok
+test_public_briefs_are_complete_clean_and_token_free (test_ops.CommissionSafety.test_public_briefs_are_complete_clean_and_token_free) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.036s
+
+OK

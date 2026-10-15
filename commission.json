@@ -1,0 +1,16 @@
+{
+  "project": "zugzwang",
+  "source": "https://github.com/dreamer2664/zugzwang",
+  "agents": {
+    "zugzwang": {
+      "id": "t-20261015-ed6e",
+      "status": "open",
+      "owner": null,
+      "deps": []
+    }
+  },
+  "primary_archive": "dreamer2664/storagecode",
+  "mars": "paused",
+  "credentials": "KIT-DBF340 only in Director private MDs; public templates placeholders",
+  "commission_state": "prepared; future producer not registered/awake/claimed"
+}

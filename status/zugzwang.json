@@ -1,0 +1,11 @@
+{
+  "agent": "zugzwang",
+  "updated_at": "2026-10-15T23:01:40Z",
+  "state": "not-started",
+  "stage": "commissioned",
+  "observed_activity": "Commissioner setup only. Future zugzwang has not registered, awakened or claimed. No product/game/build artifact exists yet; all product tests remain not run.",
+  "artifact": "briefs/ZUGZWANG.md",
+  "next_action": "On actual wake, read private charter and this complete HANDOFF, verify open card, register/claim only your own card, then begin the first measurable product build.",
+  "heartbeat_interval_seconds": 300,
+  "note": "Fresh timestamp is evidence of this observation, NOT a promise that an AI session continues after it stops."
+}

@@ -1,0 +1,30 @@
+{
+  "project": "zugzwang",
+  "recorded_at": "2026-10-15T23:01:40+00:00",
+  "scope": "Commissioning evidence/helpers only; no named product built or evaluated.",
+  "commission_tests": {
+    "helper_tests_passed": 6,
+    "failed": 0,
+    "compile_ops": "passed",
+    "cli_help": {
+      "field.py": true,
+      "release.py": true,
+      "archive.py": true
+    },
+    "log": "evidence/commission-tests.txt"
+  },
+  "slots": {
+    "zugzwang": {
+      "card": "t-20261015-ed6e",
+      "state": "not-started",
+      "registered": false,
+      "claimed": false,
+      "product_exists": false
+    }
+  },
+  "primary_archive": "dreamer2664/storagecode",
+  "source_repo": "https://github.com/dreamer2664/zugzwang",
+  "mars": "paused",
+  "ntfy_welcome_id": null,
+  "private_bootstrap_fake_value_tests": "5/5 passed; no live value included"
+}

@@ -1,0 +1,9 @@
+{
+  "commissioner": "vesta",
+  "recorded_at": "2026-10-15T23:01:22Z",
+  "scope": "commissioning scaffolds and clean briefs only",
+  "agent_state": "not-started, not registered/claimed on behalf of producer",
+  "product": "not yet built",
+  "tooling_tests_are_product_tests": false,
+  "primary_archive": "dreamer2664/storagecode"
+}
